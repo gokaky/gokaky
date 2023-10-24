@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Göktuğ</h1>
 <h3 align="center">Cyber Security and Web Pentesting</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s">
+<img align="right" alt="Coding" width="400" src="[https://giphy.com/gifs/computer-mograph-hack-077i6AULCXc0FKTj9s](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemoybWh1cXJ0dWRsdTYwZ2U2dTEybDM5eTk3cWZ3cnFzeTE4d3JjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif)">
 I'm Göktuğ Akay. I'm a 3rd-year student studying Mathematical Engineering at Yıldız Technical University. Solving puzzles has been one of my greatest hobbies since my early years. During my middle school years, upon the recommendation of my computer science teacher, I started researching small vulnerabilities on websites. When I reached high school, there were periods when I had fun with the small vulnerabilities I found on some websites. When I entered university, I began to be interested in how to fix these vulnerabilities, and I took a cybersecurity training from Ecodation Academy. At the end of the training, I had a short-term voluntary internship within the company. During this internship, I gained a better understanding of the background of the work and became even more curious. Currently, I have a good proficiency in Linux and I know how to use Linux tools at a functional level. I am also continuing my education at the Patika & Garanti BBVA Technology Security Academy. 
 
 - 🌱 I’m currently learning **Ethical Hacker Course from Cisco**
